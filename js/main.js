@@ -186,7 +186,7 @@ epithelial tissue, connective tissue, muscle tissue and nervous tissue}'
 {:columnar} taller than they are wide.'
 }, {
     question: 'Connectuve tissue of type {:Loose connective tissue}\
-is the most widespread, consists of {:collagen collagen} and {:elastic fibers}.\
+is the most widespread, consists of {:ropelike collagen} and {:elastic fibers}.\
 helps to join {:skin} to underlying tissues.'
 }, {
     question: 'Connectuve tissue of type {:Fibrous connective tissue}\
@@ -266,7 +266,7 @@ the {:enteric division} consists of networks of neurons that control secretion a
 }, {
     question: 'The brain has three subdivisions, {:forebrain, midbrain and hindbrain}.'
 }, {
-    question: 'In brids and mammals, {:Cerebrun} is much larger. The outer region of it is called \
+    question: 'In brids and mammals, {:Cerebrum} is much larger. The outer region of it is called \
 the {:cerebral cortex}.'
 }, {
     question: 'A pair of {:hypothalamic} structure called the {:suprachiasmatic nuclei} function \
@@ -310,6 +310,100 @@ of the eye.'
 }, {
     question: 'The rods cell contains the visual pigment {:rhodopsin} which can absorb {dim or bright:dim} \
 light, while cones cell contains the visual pigment {:photopsin} allow us to see color.'
+}, {
+    question: 'Hormone signaling involves three stages, {:reception}, {:signal transduction} and {:response}.'
+}, {
+    question: 'The {:pineal gland} secretes {:melatonin} which links to biological rhythms.'
+}, {
+    question: 'The {:thymus gland} lies above the heart, under the breastbone and secretes a peptide \
+that stimulates the development of {:T-cells}.'
+}, {
+    question: 'The {:hypothalamus} is the main control center of the endocrine system by \
+directly controls the {:pituitary gland}.'
+}, {
+    question: 'The {:pituitary gland} consists of two parts, {:anterior lobe and posterior lobe}.'
+}, {
+    question: 'The hormones {:oxytocin and antidiuretic hormone} are produced in the posterior pituitary.'
+}, {
+    question: '{which hormones:thyroid-stimulating hormone (TSH)} regulate the thyroid grand.'
+}, {
+    question: '{which hormones:Adrenocorticotropic hormone (ACTH)} affect water balance and metabolism.'
+}, {
+    question: '{:prolactin (PRL)} which stimulates the mammary glands to produce milk, and \
+{:growth hormone (GH)} promotes protein synthesis.'
+}, {
+    question: 'The {:thyroid gland} is located in the neck, which produces two similar hormones, \
+{:thyroxine(T4)} and {:triiodothyronine (T3)}.'
+}, {
+    question: 'The {:gonads}, or sex glands, produces {:estrogens} which maintain the female \
+reproductive system, {:progestins} which support a developing embryo, and {:androgens} maintain \
+the male reproductive system.'
+}, {
+    question: 'The {:pancreas} secretes digestive enzymes into the small intestines, and also \
+secretes two protein hormones, {:insulin and glucagon}.'
+}, {
+    question: 'Hormones that has opposite effect are called {:antagonistic hormones}.'
+}, {
+    question: 'Diabetes mellitus of type 1 is an {:autoimmune} disease, and type 2 \
+is caused by a reduced response to {:insulin}.'
+}, {
+    question: 'The endocrine system includes two {:adrenal glands} which sitting on top \
+of each kidney. Each of it is made of {:adrenal medulla and andrenal cortex}.'
+}, {
+    question: 'Nerve from the hypothalamus stimulate the adrenal {:medulla} to simulate \
+{:ephinephrine and norepinephrine}, triggering the fight-or-flight response.'
+}, {
+    question: '{:Adrenocorticotropic hormone (ACTH)} causes the andrenal {:cortex} to secrete \
+{:corticosteroids}, which include {:glucocorticoid}, which reinforcing the effects of glucagon, and \
+{:mineralocorticoids}, which act mainly on salt and water balance.'
+}, {
+    question: '{:Innate immunity} is a series of defenses that act immediately and are \
+the same whether the pathogen has been encountered before.'
+}, {
+    question: 'In innate immunity, {:Interferons} are proteins produced by virus-infected cells, \
+and {:neutrophils and macrophages} are large phagocytic cells. {:Natural killer} attack cancer and \
+infected cells.'
+}, {
+    question: '{:Lymphocytes} are responsible for adaptive immunity, and originate from stem \
+cells, which B cells continue developing in {:bone marrow}, white T cells develop further in the \
+{:thymus}.'
+}, {
+    question: '{:B cells} secrete antibodies into the blood, and {:T cells} \
+attack cells infected with bacteria or viruses.'
+}, {
+    question: 'Signals from {:helper T} cells initiate production of antibodies, and \
+activate {:cytotoxic T} cells that kill infected cells.'
+}, {
+    question: 'Helper T cells bind to the {:self-nonself complex} on a antigen-presenting cell.'
+}, {
+    question: 'The vertebrate circulatory system is often called a {:cardiovascular system}, \
+including {:arteries} carry blood away from the heart, {:veins} return blood to the heart and \
+{:capillaries} convey blood between arteries and veins.'
+}, {
+    question: 'In a double circulation system, {:pulmonary} circuit carries blood between the \
+heart and lungs, while {:systemic} circuit carries blood between the heart and the rest of the body.'
+}, {
+    question: 'The heart has two kinds of chambers, the {:atrium} receives blood from veins, \
+and the {:ventricle} pumps blood to gills.'
+}, {
+    question: 'The heart {:cardiac} cycle contains two main phases, {:diastole} is when the heart \
+is relaxed, {:systole} is when blood flows from atria into ventricles.'
+}, {
+    question: 'The {:SA (sinoatrial)} node sets the rate of heart contractions, while the \
+{:AV (atrioventricular)} node triggers the contraction.'
+}, {
+    question: 'Blood pressure is commonly measured using a {:sphygmomanometer}.'
+}, {
+    question: 'Blood flow through capillaries is restricted by {:precapillary sphincters}.'
+}, {
+    question: 'When a blood vessel is damaged, {:platelets} rapidly adhere to the exposed connective tissue.'
+}, {
+    question: 'Mammals are {:endothermic amniotes} with hair and {:mammary glands}.'
+}, {
+    question: 'Primates include {:lemurs, tarsiers, monkeys and apes}.'
+}, {
+    question: 'In addition to monkeys, the {:anthropoid group includes {:apes, gibbons, \
+orangutans, gorillas, chimpanzees and humans}.'
 }];
 
 exports.default = questions;
