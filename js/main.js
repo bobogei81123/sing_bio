@@ -194,7 +194,7 @@ helps to join {:skin} to underlying tissues.'
 bone and {:ligments} that link bone at joints.'
 }, {
     question: 'Four types of Connectuve tissue other than loose/fibrous connective\
-tissue are {adipose tissue, cartilage, bone and blood}.'
+tissue are {:adipose tissue, cartilage, bone and blood}.'
 }, {
     question: 'There are three types of muscle, {:Skeletal muscle} causes \
 voluntary movements, {:Cardiac muscle} pumps blood and {:Smooth muscle} moves walls\
