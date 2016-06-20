@@ -185,15 +185,15 @@ epithelial tissue, connective tissue, muscle tissue and nervous tissue}'
 {:squamous} - like a fried egg, {:cuboidal} - as a cube and \
 {:columnar} taller than they are wide.'
 }, {
-    question: 'Connectuve tissue of type {:Loose connective tissue}\
+    question: 'Connective tissue of type {:Loose connective tissue}\
 is the most widespread, consists of {:ropelike collagen} and {:elastic fibers}.\
 helps to join {:skin} to underlying tissues.'
 }, {
-    question: 'Connectuve tissue of type {:Fibrous connective tissue}\
+    question: 'Connective tissue of type {:Fibrous connective tissue}\
  has {:densely packed collagen} fibers, and forms {:tendons} that attach muscle to \
 bone and {:ligments} that link bone at joints.'
 }, {
-    question: 'Four types of Connectuve tissue other than loose/fibrous connective\
+    question: 'Four types of Connective tissue other than loose/fibrous connective\
 tissue are {:adipose tissue, cartilage, bone and blood}.'
 }, {
     question: 'There are three types of muscle, {:Skeletal muscle} causes \
@@ -321,16 +321,17 @@ that stimulates the development of {:T-cells}.'
     question: 'The {:hypothalamus} is the main control center of the endocrine system by \
 directly controls the {:pituitary gland}.'
 }, {
-    question: 'The {:pituitary gland} consists of two parts, {:anterior lobe and posterior lobe}.'
+    question: 'The pituitary gland consists of two parts, {:anterior lobe and posterior lobe}.'
 }, {
     question: 'The hormones {:oxytocin and antidiuretic hormone} are produced in the posterior pituitary.'
 }, {
-    question: '{which hormones:thyroid-stimulating hormone (TSH)} regulate the thyroid grand.'
+    question: 'Anterior lobe produce {which hormones:thyroid-stimulating hormone (TSH)} which regulate the thyroid grand.'
 }, {
-    question: '{which hormones:Adrenocorticotropic hormone (ACTH)} affect water balance and metabolism.'
+    question: 'Anterior lobe produce {which hormones:Adrenocorticotropic hormone (ACTH)} which \
+affect water balance and metabolism.'
 }, {
-    question: '{:prolactin (PRL)} which stimulates the mammary glands to produce milk, and \
-{:growth hormone (GH)} promotes protein synthesis.'
+    question: 'Anterior lobe produce {:prolactin (PRL)} which stimulates the mammary glands to produce milk, and \
+{:growth hormone (GH)} which promotes protein synthesis.'
 }, {
     question: 'The {:thyroid gland} is located in the neck, which produces two similar hormones, \
 {:thyroxine(T4)} and {:triiodothyronine (T3)}.'
@@ -351,7 +352,7 @@ is caused by a reduced response to {:insulin}.'
 of each kidney. Each of it is made of {:adrenal medulla and andrenal cortex}.'
 }, {
     question: 'Nerve from the hypothalamus stimulate the adrenal {:medulla} to simulate \
-{:ephinephrine and norepinephrine}, triggering the fight-or-flight response.'
+{:epinephrine and norepinephrine}, triggering the fight-or-flight response.'
 }, {
     question: '{:Adrenocorticotropic hormone (ACTH)} causes the andrenal {:cortex} to secrete \
 {:corticosteroids}, which include {:glucocorticoid}, which reinforcing the effects of glucagon, and \
